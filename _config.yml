@@ -1,4 +1,4 @@
 gem 'jekyll-default-layout'
 plugins:
   - jekyll-default-layout
-theme: hitchens-theme
+remote_theme: hitchens-theme
