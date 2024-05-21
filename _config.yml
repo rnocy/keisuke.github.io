@@ -1,5 +1,6 @@
 gem 'hitchens-theme'
 plugins:
   - jekyll-default-layout
-remote_theme: hitchens-theme
 theme: hitchens-theme
+remote_theme: hitchens-theme
+ignore_theme_config: true
